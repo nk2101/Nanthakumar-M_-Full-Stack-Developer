@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: '/nanthakumar-full-stack-developer/',
+  base: '/Nanthakumar-M_-Full-Stack-Developer/',
   plugins: [react()],
   test: {
     environment: "jsdom",
