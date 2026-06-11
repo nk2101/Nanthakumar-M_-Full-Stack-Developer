@@ -1,0 +1,7 @@
+# Nanthakumar M — Full Stack Software Developer Portfolio
+
+> Portfolio of Nanthakumar M, a Full Stack Software Developer with 3.5+ years of experience building scalable web applications using React, Next.js, Node.js, TypeScript, and modern cloud tooling.
+
+## Pages
+
+- [Home](/): Overview, about, skills, experience, projects, services, and contact for Nanthakumar M.
